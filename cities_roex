@@ -1,0 +1,148 @@
+{
+  "citiesList": [
+    {
+      "gameName": "antracit",
+      "realName": "Антрацит",
+      "country": "ukraine",
+      "x": "106671",
+      "y": "81.8906",
+      "z": "100.863"
+    },
+    {
+      "gameName": "bashtanka",
+      "realName": "Баштанка",
+      "country": "ukraine",
+      "x": "84210.9",
+      "y": "115.074",
+      "z": "12045.5"
+    },
+    {
+      "gameName": "belgor",
+      "realName": "Белгород",
+      "country": "russia",
+      "x": "93743.7",
+      "y": "60",
+      "z": "-10579.3"
+    },
+    {
+      "gameName": "berdy",
+      "realName": "Бердянськ",
+      "country": "ukraine",
+      "x": "99153.1",
+      "y": "100",
+      "z": "8773.64"
+    },
+    {
+      "gameName": "cernaut",
+      "realName": "Чернiвцi",
+      "country": "ukraine",
+      "x": "56728",
+      "y": "101",
+      "z": "10742.1"
+    },
+    {
+      "gameName": "cernihiv",
+      "realName": "Чернiгiв",
+      "country": "ukraine",
+      "x": "74001",
+      "y": "61",
+      "z": "-10369.7"
+    },
+    {
+      "gameName": "cernobil",
+      "realName": "Чорнобиль",
+      "country": "ukraine",
+      "x": "70996.8",
+      "y": "100",
+      "z": "-8499.38"
+    },
+    {
+      "gameName": "cherk",
+      "realName": "Черкаси",
+      "country": "ukraine",
+      "x": "79325.5",
+      "y": "79",
+      "z": "479.836"
+    },
+    {
+      "gameName": "ivan",
+      "realName": "Iвано-Франкiвськ",
+      "country": "ukraine",
+      "x": "52367.4",
+      "y": "145",
+      "z": "8059.94"
+    },
+    {
+      "gameName": "jankoi",
+      "realName": "Джанкой",
+      "country": "russia",
+      "x": "91622.3",
+      "y": "120",
+      "z": "17378.8"
+    },
+    {
+      "gameName": "kerci",
+      "realName": "Керчь",
+      "country": "russia",
+      "x": "99113.8",
+      "y": "90",
+      "z": "16428.3"
+    },
+    {
+      "gameName": "kerson",
+      "realName": "Херсон",
+      "country": "ukraine",
+      "x": "85093.6",
+      "y": "75",
+      "z": "15804.1"
+    },
+    {
+      "gameName": "kharkiv",
+      "realName": "Харкiв",
+      "country": "ukraine",
+      "x": "93827.7",
+      "y": "62",
+      "z": "-6729.86"
+    },
+    {
+      "gameName": "khmeln",
+      "realName": "Хмельницький",
+      "country": "ukraine",
+      "x": "60662.7",
+      "y": "71",
+      "z": "4216.4"
+    },
+    {
+      "gameName": "kiev",
+      "realName": "Киïв",
+      "country": "ukraine",
+      "x": "72491.1",
+      "y": "95",
+      "z": "-4126.68"
+    },
+    {
+      "gameName": "konotop",
+      "realName": "Конотоп",
+      "country": "ukraine",
+      "x": "81082.3",
+      "y": "62",
+      "z": "-10518"
+    },
+    {
+      "gameName": "korostenn",
+      "realName": "Коростень",
+      "country": "ukraine",
+      "x": "65747.1",
+      "y": "138",
+      "z": "-5818"
+    },
+    {
+      "gameName": "kovell",
+      "realName": "Ковель",
+      "country": "ukraine",
+      "x": "51179.1",
+      "y": "140",
+      "z": "-4998.4"
+    }
+  ]
+}
